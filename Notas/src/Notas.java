@@ -4,15 +4,15 @@
 
     public class Notas {
 
-        private static String [] nombresEstudiantes;
-        private static String [] copiaNombreEstudiantes;
-        private static String [] nombresMaterias;
-        private static String [] copiaNombresMaterias;
         private static int numeroEstudiantes;
-        private static int copiaNumeroEstudiantes;
         private static int numeroMaterias;
-        private static int copiaNumeroMaterias;
+        private static String [] nombresEstudiantes;
+        private static String [] nombresMaterias;
         private static double [][] calificaciones;
+        private static int copiaNumeroEstudiantes;
+        private static int copiaNumeroMaterias;
+        private static String [] copiaNombreEstudiantes;
+        private static String [] copiaNombresMaterias;
         private static double copiaNotas [][];
         private static double verificarAProbacionAno;
         private static double promedio;
